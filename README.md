@@ -4,5 +4,7 @@ Repositório criado para o nosso treinamento sobre o GitHub
 Estamos estudando sobre o github a partir do tutorial disponibilizado por eles.
 # Philips
 Eu sou estagiária na Philips.
+# Inserindo o Ramo A
+...
 * Inserindo Ramo B
 * ...
